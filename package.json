@@ -1,0 +1,20 @@
+{
+  "name": "ehd",
+  "version": "0.0.1",
+  "description": "blog api",
+  "main": "app.js",
+  "scripts": {
+    "server": "nodemon app.js"
+  },
+  "keywords": [
+    "blog",
+    "api"
+  ],
+  "author": "alfonso moya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.7"
+  }
+}
